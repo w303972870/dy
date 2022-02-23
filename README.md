@@ -12,6 +12,7 @@
 ```
 hmdouyin -u=https://v.douyin.com/LKDPLps/
 ```
+![win](https://user-images.githubusercontent.com/28257606/155286492-540648e1-ab9c-41b2-af3a-23c42bd65e90.png)
 
 # Mac
 -  下载hmdouyin
@@ -32,3 +33,4 @@ chmod +x hmdouyin
 ```
 ./hmdouyin -u=https://v.douyin.com/LKDPLps/
 ```
+![mac](https://user-images.githubusercontent.com/28257606/155286482-51b907ea-109a-4e83-b9cd-0ca9c2b0f88d.jpg)
